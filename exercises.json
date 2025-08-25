@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Fetch API",
+    "description": "Realizar busca a uma API utilizando fetch, sem uso de bibliotecas externas como axios."
+  },
+  {
+    "id": 2,
+    "name": "Context API",
+    "description": "Implementar um contexto global para compartilhar estado entre componentes."
+  },
+  {
+    "id": 3,
+    "name": "Componente Controlado",
+    "description": "Criar um formulário controlado usando useState para gerenciar os valores dos inputs."
+  },
+  {
+    "id": 4,
+    "name": "Renderização Condicional",
+    "description": "Exibir ou ocultar elementos na tela com base em um estado booleano."
+  },
+  {
+    "id": 5,
+    "name": "Listagem Dinâmica",
+    "description": "Renderizar uma lista de itens a partir de um array e permitir a remoção de itens."
+  },
+  {
+    "id": 6,
+    "name": "useEffect",
+    "description": "Utilizar o hook useEffect para executar efeitos colaterais, como buscar dados ao montar o componente."
+  },
+  {
+    "id": 7,
+    "name": "Composição de Componentes",
+    "description": "Criar componentes reutilizáveis e compor interfaces a partir deles."
+  },
+  {
+    "id": 8,
+    "name": "Props e Children",
+    "description": "Passar dados entre componentes usando props e renderizar elementos filhos."
+  }
+]
