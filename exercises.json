@@ -43,5 +43,10 @@
     "id": 9,
     "name": "useMemo()",
     "description": ""
+  },
+  {
+    "id": 10,
+    "name": "useContext()",
+    "description": "useContext é usado para gerenciar um estado global sem a necessidade de 'prop drilling'"
   }
 ]
