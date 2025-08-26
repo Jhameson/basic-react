@@ -38,5 +38,10 @@
     "id": 8,
     "name": "Props e Children",
     "description": "Passar dados entre componentes usando props e renderizar elementos filhos."
+  },
+  {
+    "id": 9,
+    "name": "useMemo()",
+    "description": ""
   }
 ]
